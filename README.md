@@ -15,5 +15,4 @@ Similarily to ProdigyMathGameHacking:
 - Success!
 
 ## Notes
-- Will's Cheat Menu (the default menu included with the Redirect Hack) will no longer be functional when using this menu. To use Will's Cheat Menu,
- refresh the page without pasting this code into the console
+- Will's Cheat Menu (the default menu included with the Redirect Hack) will no longer be functional when using this menu. To use Will's Cheat Menu, close this cheat menu.
