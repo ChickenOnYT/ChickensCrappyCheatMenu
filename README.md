@@ -1,4 +1,5 @@
 # Chicken's Crappy Cheat Menu
+## This repository is currently unfinished; please do not attempt to use the code here at this moment.
 Hi, I'm DaChickenKing. I made this cheat menu because I want Prodigy to make an anti-cheat. My purpose of making this cheat menu is aligned with the purpose of [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking).
 
 ## Disclaimers
