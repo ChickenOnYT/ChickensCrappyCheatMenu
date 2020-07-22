@@ -3,7 +3,7 @@
 (() => {
   // Import libraries
   (async() => {
-     eval(await (await fetch("https://raw.githubusercontent.com/MikeTheSkid/M-E-N-U-s/master/ChickensCrappyCheatMenu/src/lib/swal2.js")).text())
+     eval(await (await fetch("https://github.com/DaChickenKing/ChickensCrappyCheatMenu/blob/master/src/lib/swal2.js")).text())
   })();
 	
   // Closes wills cheat menu
